@@ -1,0 +1,66 @@
+#caid{
+    margin: 0% 10%;
+    padding:2% 6%; 
+   
+    background-color: rgb(248, 248, 247);
+}
+.container-fluid{
+    padding: 0% 0%;
+
+}
+
+.colored-section{
+    background-color: white;
+}
+
+.navbar{
+    background-color: azure;
+    padding: 0%;
+    margin: 0%;
+}
+
+table{
+  width:auto;
+}
+#fr{
+    margin: 0% 10%;
+    padding:2% 10%; 
+   
+    background-color: rgb(248, 248, 247);
+}
+#g1{
+    margin: 0% 10%;
+    padding:2% 6%; 
+    
+    background-color: rgb(248, 248, 247);
+       
+}
+.img{
+    width: 100%;
+    height:auto;
+    
+    
+}
+.group1-text{
+    font-size: 3.0rem;
+    line-height: 1.5;
+}
+
+#table1
+{
+    margin: 0% 10%;
+    padding:2% 6%; 
+    
+    background-color: rgb(248, 248, 247);
+}
+
+
+@media only screen and (max-width: 600px) {
+    .colu {
+      column-count: auto;
+    }
+    .group1-text{
+        font-size: large;
+    }
+
+  }
